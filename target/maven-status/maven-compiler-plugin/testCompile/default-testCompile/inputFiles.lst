@@ -1,4 +1,3 @@
-c:\Users\david\cph-dat\3.Semester\JavalinAPI\src\test\java\notes\EndpointTest.java
-c:\Users\david\cph-dat\3.Semester\JavalinAPI\src\test\java\notes\TestUtils.java
-c:\Users\david\cph-dat\3.Semester\JavalinAPI\src\test\java\notes\security\SecurityTests.java
-c:\Users\david\cph-dat\3.Semester\JavalinAPI\src\test\java\tddKoans\GreetingKata.java
+/Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/test/java/notes/TestUtils.java
+/Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/test/java/notes/EndpointTest.java
+/Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/test/java/notes/security/SecurityTests.java
