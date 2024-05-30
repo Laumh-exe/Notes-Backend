@@ -10,7 +10,7 @@ import notes.ressources.User;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         startServer(7070);
     }

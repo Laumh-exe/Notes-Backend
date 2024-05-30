@@ -1,5 +1,6 @@
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/config/Routs.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/exceptions/ApiException.java
+/Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/Main.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/exceptions/NotAuthorizedException.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/dtos/UserDTO.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/exceptions/EntityNotFoundException.java
@@ -17,7 +18,6 @@
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/controlers/SecurityController.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/daos/IDAO.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/utils/TokenUtils.java
-/Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/main.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/controlers/ISecurityController.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/daos/ADAO.java
 /Users/lauritz/Documents/Dev/CodeProjects/NotesApplication/Notes-Backend/src/main/java/notes/controlers/IController.java
